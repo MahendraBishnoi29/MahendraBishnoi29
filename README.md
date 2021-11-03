@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [https://dev.to/browncoder](https://dev.to/browncoder)
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **JavaScript, React.🤩**
 
 - 📫 How to reach me **mahendrabishnoi4488@gmail.com**
 
