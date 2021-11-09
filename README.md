@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **mahendrabishnoi4488@gmail.com**
 
-- ⚡ Fun fact **Ctrl + C and Ctrl + V have saved more lives than Batman and Robin.**
+- ⚡ Fun fact **I Create Errors😎.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
