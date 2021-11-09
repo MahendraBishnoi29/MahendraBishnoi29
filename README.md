@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js.**
 
-- 👯 I’m looking to collaborate on **Good Projects.**
+- 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 🤝 I’m looking for help with **Mock Interviews.**
 
