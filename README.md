@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahendrabishnoi29&label=Profile%20views&color=0e75b6&style=flat" alt="mahendrabishnoi29" /> </p>
 
-<p align="left"> <a href="https://twitter.com/browncoder99" target="blank"><img src="https://img.shields.io/twitter/follow/browncoder99?logo=twitter&style=for-the-badge" alt="browncoder99" /></a> </p>
+<p align="left"> <a href="https://twitter.com/browncoder44" target="blank"><img src="https://img.shields.io/twitter/follow/browncoder99?logo=twitter&style=for-the-badge" alt="browncoder99" /></a> </p>
 
 - 🔭 I’m currently working on **MERN Stack Project.**
 
