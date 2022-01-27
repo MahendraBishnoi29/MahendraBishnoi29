@@ -1,6 +1,4 @@
-![App Screenshot](https://user-images.githubusercontent.com/74294202/140187317-7c0bab6e-a4c3-4309-a79d-f59e72c900b8.png)
-
-<h1 align="center">Hi 👋, I'm Mahendra</h1>
+<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" /> Hi, I'm Mahendra</h1>
 <h2 align="center">A passionate frontend developer from India.</h2>
 
 ## 😀About Me
@@ -31,7 +29,6 @@
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=MahendraBishnoi29&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MahendraBishnoi29&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MahendraBishnoi29&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
