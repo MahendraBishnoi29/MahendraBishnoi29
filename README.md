@@ -1,4 +1,5 @@
-<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" /> Hi, I'm Mahendra</h1>
+<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" /> Hi, I'm Mahendra  <img align="center" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/raw/master/animation_500_kv8i962g.gif?raw=true" style="max-width: 100%;"></h1> 
+
 <h2 align="center">A passionate frontend developer from India.</h2>
 
 ## 😀About Me
@@ -17,9 +18,7 @@
 
 - 📫 How to reach me **mahendrabishnoi4488@gmail.com**
 
-- ⚡ Fun fact **I Create Errors😎.**
-
-## 🌐Socials
+## 🌐Socials & Blog
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/callback_programmer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahendra-bishnoi-6281b4203) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@browncoder) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14965145) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/browncoder44) 
 
 # 💻Tech Stack, Tools & Stuff I Work With
