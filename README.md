@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" /> Hi, I'm Mahendra  <img align="center" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/raw/master/animation_500_kv8i962g.gif?raw=true" style="max-width: 100%;" /> </h1 
+<h1 align="center"><img src="https://cdn.jsdelivr.net/gh/Th3Wall/assets-cdn/PersonalGithubReadme/HandGreet.gif" width="35px" /> Hi, I'm Mahendra  <img align="center" width="300em" height="300em" src="https://github.com/birobirobiro/birobirobiro/raw/master/animation_500_kv8i962g.gif?raw=true" style="max-width: 100%;"></h1 
 
 <h2 align="center">A passionate frontend developer from India.</h2>
 
