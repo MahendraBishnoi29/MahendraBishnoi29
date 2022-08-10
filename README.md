@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Personal Projects.**
 
-- 🌱 I’m currently learning **Blockchain Development.**
+- 🌱 I’m currently learning **Something New 😉.**
 
 - 👯 I’m looking to collaborate on **Cool Projects.**
 
