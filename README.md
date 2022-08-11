@@ -10,8 +10,6 @@
 
 - 👯 I’m looking to collaborate on **Cool Projects.**
 
-- 📝 I regularly write articles on [https://dev.to/browncoder](https://dev.to/browncoder)
-
 - 💬 Ask me about **JavaScript.🤩**
 
 - 📫 How to reach me **mahendrabishnoi4488@gmail.com**
