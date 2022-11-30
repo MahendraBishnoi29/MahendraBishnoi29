@@ -2,8 +2,6 @@
 
 <h2 align="center">A passionate frontend developer from India.</h2>
 
-<a href="https://hashnode.com/https://browny.hashnode.dev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://browny.hashnode.dev/" height="30" width="40" /></a>
-
 ## 😀About Me
 
 - 🔭 I’m currently working on **Personal Projects.**
