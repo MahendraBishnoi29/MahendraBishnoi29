@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Personal Projects.**
 
-- 🌱 I’m currently learning **Something New 😉.**
+- 🌱 I’m currently learning **TypeScript 🧙🏻‍♂️.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
