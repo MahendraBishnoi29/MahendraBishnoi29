@@ -2,7 +2,7 @@
 
 <h2 align="center">A passionate frontend developer from India.</h2>
 
-## 😀About Me
+# About Me
 
 - 🔭 I’m currently working on **Personal Projects.**
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mahendrabishnoi4488@gmail.com**
 
-## 🌐Socials & Blog
+# Socials & Blog
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahendra-bishnoi-6281b4203)  [![Hashnode](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://browny.hashnode.dev/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14965145) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xbrowncoder) 
 
 # <img align="center" src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> Tech Stack, Tools
