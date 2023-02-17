@@ -4,13 +4,13 @@
 
 # About Me
 
-- 🔭 I’m currently working on **Personal Projects.**
+- I’m currently working on **Personal Projects 🛠**
 
-- 🌱 I’m currently learning **TypeScript 🧙🏻‍♂️.**
+- I’m currently learning **TypeScript 🧙🏻‍♂️**
 
-- 👯 I’m looking to collaborate on **Open Source Projects.**
+- I’m looking to collaborate on **Open Source Projects 🤝🏻**
 
-- 💬 Ask me about **JavaScript.🤩**
+- Ask me about **JavaScript 💬**
 
 - 📫 How to reach me **mahendrabishnoi4488@gmail.com**
 
