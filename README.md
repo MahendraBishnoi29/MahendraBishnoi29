@@ -4,7 +4,7 @@
 
 # About Me
 
-- I’m currently working on **Personal Projects 🛠**
+- I’m currently working on **Freelance Projects 🛠**
 
 - I’m currently learning **TypeScript 🧙🏻‍♂️**
 
