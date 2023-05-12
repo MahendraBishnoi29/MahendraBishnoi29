@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I'm Mahendra 👋🏻</h1>
 
-<h2 align="center">A passionate frontend developer from India.</h2>
+<h2 align="center">A passionate Software Developer from India.</h2>
 
 # About Me
 
