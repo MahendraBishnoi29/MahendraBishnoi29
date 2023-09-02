@@ -4,15 +4,15 @@
 
 # About Me
 
-- I’m currently working on **Freelance Projects 🛠**
+- I’m currently working at a Startup as a **Frontend Engineer 🛠**
 
-- I’m currently learning **TypeScript 🧙🏻‍♂️**
+- I’m currently learning **TypeScript and AWS 🧙🏻‍♂️**
 
 - I’m looking to collaborate on **Open Source Projects 🤝🏻**
 
-- Ask me about **JavaScript 💬**
+- Ask me about **Web Development 💬**
 
-- 📫 How to reach me **mahendrabishnoi4488@gmail.com**
+- How to reach me **mahendrabishnoi4488@gmail.com 📫**
 
 # Socials & Blog
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mahendra-bishnoi-6281b4203)  [![Hashnode](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://browny.hashnode.dev/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14965145) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xbrowncoder) 
