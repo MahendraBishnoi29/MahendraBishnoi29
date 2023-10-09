@@ -4,7 +4,7 @@
 
 # About Me
 
-- I’m currently working at a Startup as a **Frontend Engineer 🛠**
+- I’m currently **Jobless :(**
 
 - I’m currently learning **TypeScript and AWS 🧙🏻‍♂️**
 
