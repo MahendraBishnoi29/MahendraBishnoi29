@@ -4,7 +4,7 @@
 
 # About Me
 
-- I’m currently **Jobless :(**
+- I’m currently working at Mave Health as a **Frontend Developer**
 
 - I’m currently learning **TypeScript and AWS 🧙🏻‍♂️**
 
