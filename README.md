@@ -4,7 +4,7 @@
 
 # About Me
 
-- I’m currently working at [Fountane](https://www.fountane.com/) as a **Software Developer**
+- I’m currently working at [Fountane Inc](https://www.fountane.com/) as a **Software Developer**
 
 - I’m currently learning **Cloud and Backend 🧙🏻‍♂️**
 
