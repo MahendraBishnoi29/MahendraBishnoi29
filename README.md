@@ -6,8 +6,6 @@
 
 - I’m currently working at [Fountane Inc](https://www.fountane.com/) as a **Software Developer**
 
-- I’m currently learning **Cloud and Backend 🧙🏻‍♂️**
-
 - I’m looking to collaborate on **Open Source Projects 🤝🏻**
 
 - How to reach me **mahendrabishnoi4488@gmail.com 📫**
