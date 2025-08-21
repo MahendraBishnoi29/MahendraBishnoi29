@@ -1,10 +1,10 @@
 <h1 align="center"> Hi, I'm Mahendra 👋🏻</h1>
 
-<h2 align="center">A passionate Software Developer from India.</h2>
+<h2 align="center">A passionate Software Engineer from India.</h2>
 
 # About Me
 
-- I’m currently working at [Fountane Inc](https://www.fountane.com/) as a **Software Developer**
+- I’m currently working at [Fountane Inc](https://www.fountane.com/) as a **Software Engineer**
 
 - I’m looking to collaborate on **Open Source Projects 🤝🏻**
 
